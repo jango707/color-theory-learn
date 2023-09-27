@@ -1,0 +1,13 @@
+**,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body,
+html {
+  padding: 0;
+  margin: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(254, 247, 241);
+}
